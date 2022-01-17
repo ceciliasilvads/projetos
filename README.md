@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Cecília%20Silva%20de%20Souza-blue.svg?style=flat-square)](https://github.com/ceciliasilvads)
+[![author](https://img.shields.io/badge/Author-Cecília%20Silva-blue.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
 [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
 
 # Data Science Portifólio
