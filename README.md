@@ -1,50 +1,25 @@
-# data-science-projects
+# Data Science Projects
  
-### Etapas
-- Levantar questões do negócio;
-- Entendimento do problema;
-- Coleta de dados;
-- Limpeza de dados;
-- Exploração dos dados;
-- Modelagen dos dados;
-- Algoritmo de ML;
-- Avaliação do algoritmo;
-- Modelo em produção.
+## Exploratory Data Analysis - EDA
+ - vantar questões do negócio;
+ - Entendimento do problema;
+ - Coleta de dados;
+ - Limpeza de dados;
+ - Exploração dos dados;
 
-## Insights
-  - Questão do negócio
-  - Entendimento do problema
-  - Coleta de dados
-  - Limpeza de dados
-  - exploração
-## Data Engineering
+
+## Data Engineering - DE
+  - Pipline;
   - Coleta dados;
   - Limpeza de dados;
   - Exploração de dados;
-  - **Pipline**;
-  - **Web Scraping**.
-## Machine Learning
-  - Coleta de dados;
-  - Limpeza de dados;
-  - Exploração dos dados;
-  - Modelagen dos dados;
-  - Algoritmo de ML;
-  - Avaliação do algoritmo.
-## End to End
+
+
+## Machine Learning - ML
   - Coleta de dados;
   - Limpeza de dados;
   - Exploração dos dados;
   - Modelagen dos dados;
   - Algoritmo de ML;
   - Avaliação do algoritmo;
-  - Modelo em produção.
-## Data Science
-  - Levantar questões do negócio;
-  - Entendimento do problema;
-  - Coleta de dados;
-  - Limpeza de dados;
-  - Exploração dos dados;
-  - Modelagen dos dados;
-  - Algoritmo de ML;
-  - Avaliação do algoritmo;
-  - Modelo em produção.
+  - Deploy do Modelo.
