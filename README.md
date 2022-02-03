@@ -4,7 +4,7 @@
 # Data Science Portifólio
 
 ## Sobre Mim
-  Tenho 19 anos, moro em Valparaíso-GO. Sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Em 2018 me encontrei na área de Ciência de Dados, desde então tenho me dedicado aos estudos me aprimorando todos os dias.
+  Tenho 19 anos e sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Em 2018 me encontrei na área de Ciência de Dados, desde então tenho me dedicado aos estudos me aprimorando todos os dias.
 
 ## Meus Projetos
 - [Análise de Dados da Covid-19](https://github.com/ceciliasilvads/analises_covid19)
