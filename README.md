@@ -12,9 +12,8 @@
 	- Conceitos fundamentais da estatística descritiva;
 	- Conceitos fundamentais de probabilidade e amostragem;
 	- Distribuições de frequências para dados estatísticos e suas formas de representação;
-	- Aplicação de medidas de posição;
+	- Aplicação de medidas de tendência central;
 	- Aplicação de medidas de dispersão;
-	- Calculo de variância, o desvio-padrão e coeficiente de variação para uma amostra;
 
 ## Meus Projetos
 - [Análise de Dados da Covid-19](https://github.com/ceciliasilvads/analises_covid19)
