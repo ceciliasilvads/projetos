@@ -6,6 +6,16 @@
 ## Sobre Mim
   Tenho 19 anos e sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Em 2018 me encontrei na área de Ciência de Dados, desde então tenho me dedicado aos estudos me aprimorando todos os dias.
 
+## Minhas Skills
+
+- **Estatística:**
+	- Conceitos fundamentais da estatística descritiva;
+	- Conceitos fundamentais de probabilidade e amostragem;
+	- Distribuições de frequências para dados estatísticos e suas formas de representação;
+	- Aplicação de medidas de posição;
+	- Aplicação de medidas de dispersão;
+	- Calculo de variância, o desvio-padrão e coeficiente de variação para uma amostra;
+
 ## Meus Projetos
 - [Análise de Dados da Covid-19](https://github.com/ceciliasilvads/analises_covid19)
 - [Análise da População Brasileira - App Web Com Streamlit](https://github.com/ceciliasilvads/webapp_regioes)
