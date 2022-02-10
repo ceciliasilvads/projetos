@@ -8,6 +8,10 @@
 
 ## Minhas Skills
 
+- **Pytho:**
+	- Uso do Pandas para análise de dados;
+	- Análise estatística de dados e visualização com Matplotlib, Seaborn e Plotly;
+	- Scikit Learn;
 - **Estatística:**
 	- Conceitos fundamentais da estatística descritiva;
 	- Conceitos fundamentais de probabilidade e amostragem;
