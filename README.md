@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/Author-Cecília%20Silva-blue.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
 [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
 
-# Data Science Portifólio
+# Portifólio de Ciência de Dados
 
 ## Sobre Mim
   Tenho 19 anos e sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Em 2018 me encontrei na área de Ciência de Dados, desde então tenho me dedicado aos estudos me aprimorando todos os dias.
