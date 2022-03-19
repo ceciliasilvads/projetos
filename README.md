@@ -1,9 +1,11 @@
-[![author](https://img.shields.io/badge/Author-Cecília%20Silva-blue.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
-[![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
+# Portifólio de Ciência de Dados
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-Cecília%20Silva-B67066.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ceciliasilvads/)
+[![kagglr](https://img.shields.io/badge/Kaggle-Cecília%20Silva-B67066.svg?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/cecliasdesouza)
+[![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-B67066.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
 
 ![capa-ceciliasilvads](https://github.com/ceciliasilvads/portifolio/blob/main/Capa.png)
 
-# Portifólio de Ciência de Dados
 
 ## Sobre Mim
   Tenho 19 anos e sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Em 2018 me encontrei na área de Ciência de Dados, desde então tenho me dedicado aos estudos me aprimorando todos os dias.
