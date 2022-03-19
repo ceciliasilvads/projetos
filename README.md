@@ -1,6 +1,8 @@
 [![author](https://img.shields.io/badge/Author-Cecília%20Silva-blue.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
 [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
 
+![capa-ceciliasilvads](https://github.com/ceciliasilvads/portifolio/blob/main/Capa.png)
+
 # Portifólio de Ciência de Dados
 
 ## Sobre Mim
