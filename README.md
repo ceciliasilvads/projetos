@@ -24,10 +24,10 @@
 	- Aplicação de medidas de dispersão;
 
 ## Meus Projetos
-- [Análise de Dados da Covid-19](https://github.com/ceciliasilvads/analises_covid19)
-- [Análise da População Brasileira - App Web Com Streamlit](https://github.com/ceciliasilvads/webapp_regioes)
-- [Previsão das Chances de Ataques Cardíacos](https://github.com/ceciliasilvads/data-science-projects/tree/main/ML-Chances%20de%20Ataque%20Card%C3%ADaco)
-- [Dashboard - Venda de Vídeo Games Pelo Mundo](https://github.com/ceciliasilvads/video-games-sales-2016)
+- **[Análise de Dados da Covid-19](https://github.com/ceciliasilvads/analises_covid19)**
+- **Análise da População Brasileira - App Web Com Streamlit:** [<Aplicação>](https://share.streamlit.io/cecellhax/webapp_regioes/main/main.py), [<Repositório>](https://github.com/ceciliasilvads/webapp_regioes) 
+- **[Previsão das Chances de Ataques Cardíacos](https://github.com/ceciliasilvads/data-science-projects/tree/main/ML-Chances%20de%20Ataque%20Card%C3%ADaco)**
+- **[Dashboard - Venda de Vídeo Games Pelo Mundo](https://github.com/ceciliasilvads/video-games-sales-2016)**
 
 ## Experiências
 
