@@ -8,7 +8,7 @@
 
 
 ## Sobre Mim
-  Tenho 19 anos e sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Em 2018 me encontrei na área de Ciência de Dados, desde então tenho me dedicado aos estudos me aprimorando todos os dias.
+  Tenho 19 anos e sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Me encontrei na área de Ciência de Dados, desde então, tenho me dedicado aos estudos e me aprimorando todos os dias.
 
 ## Minhas Skills
 
@@ -33,11 +33,11 @@
 
  - **Aprendiz de Ciência de Dados - [Ai Consult](https://www.linkedin.com/company/ai-consult/)**
  		 
-     AI Consult é uma consultoria que cria e implementa soluções de Ciência de Dados, Business Intelligence e Inteligência Artificial em diversos tipos de negócios, onde, participo da construção dos produtos da empresa.
+     AI Consult é uma consultoria que cria e implementa soluções de Ciência de Dados, Business Intelligence e Inteligência Artificial em diversos tipos de negócios. Participo da construção dos diversos produtos da empresa para os clientes.
 
 - **Desenvolvedora Front-End - [Proffer](https://www.linkedin.com/company/proffer-ai/)**
 		
-    A Proffer é um sistema de gestão inteligente de preços e descontos com foco no setor de farmácias, mas que também está preparado para atender outros nichos. Participo do desenvolvimento front-end dos produtos da empresa, trabalhando no design, desenvolvimento de dashboards no Power BI e também na aplicação WEB.
+    A Proffer é um sistema de gestão inteligente de preços e descontos com foco no setor de farmácias, mas que também está preparado para atender outros nichos. Participo do desenvolvimento front-end dos produtos da empresa, trabalhando no design e desenvolvimento de dashboards em Power BI e também como aplicação WEB.
 
 - **Grupo de Pesquisa e Robótica Açaímov - [Açaímov](https://www.instagram.com/acaimov.ifma/)**
 		
