@@ -14,7 +14,7 @@
 - ### Python:
 	- Uso de bibliotecas para análise de dados;
 	- Análise estatística de dados e visualização com Matplotlib, Seaborn e Plotly;
-	- Scikit Learn;
+	- Scikit Learn para criação e de modelo de Machine Learning;
 	
 - ### Estatística:
 	- Conceitos fundamentais da estatística descritiva;
@@ -24,7 +24,11 @@
 	- Aplicação de medidas de dispersão;
 
 - ### Power BI e Google Data Studio
-	- Desenvolvimento de painéis
+	- Desenvolvimento de dashboards;
+	- Análise de dados;
+	- Transformaçãos de dados;
+	- Apresentação de dados;
+
 - ### Prototipagen e Desing
 	- Figma
 	- Canva
