@@ -6,22 +6,38 @@
 
 ![capa-ceciliasilvads](https://github.com/ceciliasilvads/portifolio/blob/main/Capa.png)
 
-
 ## Sobre Mim
   Tenho 19 anos e sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Me encontrei na área de Ciência de Dados, desde então, tenho me dedicado aos estudos e me aprimorando todos os dias.
 
 ## Minhas Skills
 
-- **Python:**
-	- Uso do Pandas para análise de dados;
+- ### Python:
+	- Uso de bibliotecas para análise de dados;
 	- Análise estatística de dados e visualização com Matplotlib, Seaborn e Plotly;
 	- Scikit Learn;
-- **Estatística:**
+	
+- ### Estatística:
 	- Conceitos fundamentais da estatística descritiva;
 	- Conceitos fundamentais de probabilidade e amostragem;
 	- Distribuições de frequências para dados estatísticos e suas formas de representação;
 	- Aplicação de medidas de tendência central;
 	- Aplicação de medidas de dispersão;
+
+- ### Power BI e Google Data Studio
+	- Desenvolvimento de painéis
+- ### Prototipagen e Desing
+	- Figma
+	- Canva
+
+- ### Versionamento
+	- Git
+	- Github
+	- GitFlow
+
+- ## Desenvolvimento WEB
+	- Javascript
+	- HTML
+	- CSS
 
 ## Meus Projetos
 - **[Análise de Dados da Covid-19](https://github.com/ceciliasilvads/analises_covid19)**
