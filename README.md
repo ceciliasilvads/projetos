@@ -1,5 +1,3 @@
-# Portifólio de Ciência de Dados
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-Cecília%20Silva-B67066.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ceciliasilvads/)
 [![kagglr](https://img.shields.io/badge/Kaggle-Cecília%20Silva-B67066.svg?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/cecliasdesouza)
 [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-B67066.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
