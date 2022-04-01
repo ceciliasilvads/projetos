@@ -35,10 +35,18 @@
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=Canva)
 
 ## Meus Projetos
+
 - **[Análise de Dados da Covid-19](https://github.com/ceciliasilvads/analises_covid19)**
 - **Análise da População Brasileira - App Web Com Streamlit:** [<Aplicação>](https://share.streamlit.io/cecellhax/webapp_regioes/main/main.py), [<Repositório>](https://github.com/ceciliasilvads/webapp_regioes) 
 - **[Previsão das Chances de Ataques Cardíacos](https://github.com/ceciliasilvads/data-science-projects/tree/main/ML-Chances%20de%20Ataque%20Card%C3%ADaco)**
 - **[Minhas Dashboards](https://www.figma.com/file/MvjgslZM5Jzu9QBgPyYthh/Dashboards-Pessoais?node-id=0%3A1)**
+
+## O posso fazer?
+
+- Extração, tratamento e análise de dados;
+- Trabalhar com análises descritivas, preditivas e prescritivas;
+- Apresentar impressões e resultados para o negócio, expondo e validando suposições para a equipe;
+- Elaboração de relatórios e dashboards gerenciais;
 
 ## Experiências
 
