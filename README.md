@@ -41,6 +41,8 @@
 - **Análise da População Brasileira - App Web Com Streamlit:** [<Aplicação>](https://share.streamlit.io/cecellhax/webapp_regioes/main/main.py), [<Repositório>](https://github.com/ceciliasilvads/webapp_regioes) 
 - [**Previsão das Chances de Ataques Cardíacos**](https://github.com/ceciliasilvads/data-science-projects/tree/main/ML-Chances%20de%20Ataque%20Card%C3%ADaco)
 - [**Minhas Dashboards**](https://github.com/ceciliasilvads/dashboards)
+- [**Análise de Resultados de um E-commerce - Dashboard**](https://datastudio.google.com/reporting/6f300a2e-73b4-4e44-8563-e576e21d7e26)
+- [**Video Games Sales - Dashboard**](https://datastudio.google.com/u/0/reporting/6a336f1e-e318-43b2-9b48-a6a93ddac672/page/3hNXC)
 
 ## O posso fazer?
 
