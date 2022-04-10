@@ -38,7 +38,7 @@
 
 - [**Análise de Dados da Covid-19**](https://github.com/ceciliasilvads/analises_covid19)
 - [**Análise do Excesso de Mortes Relacionados a Covid-19 em Paíse da América Látina**](https://docs.google.com/spreadsheets/d/1yBOSTk6jpdjkvEndQRCAgj81SnJ_q-6PYMokf9dpUAk/edit?usp=sharing)
-- **Análise da População Brasileira - App Web Com Streamlit:** [<Aplicação>](https://share.streamlit.io/cecellhax/webapp_regioes/main/main.py), [<Repositório>](https://github.com/ceciliasilvads/webapp_regioes) 
+- **Análise da População Brasileira - App Web Com Streamlit:** [<Aplicação>](https://share.streamlit.io/ceciliasilvads/webapp_regioes/main/main.py), [<Repositório>](https://github.com/ceciliasilvads/webapp_regioes) 
 - [**Previsão das Chances de Ataques Cardíacos**](https://github.com/ceciliasilvads/data-science-projects/tree/main/ML-Chances%20de%20Ataque%20Card%C3%ADaco)
 - [**Minhas Dashboards**](https://github.com/ceciliasilvads/dashboards)
 - [**Análise de Resultados de um E-commerce - Dashboard**](https://datastudio.google.com/reporting/6f300a2e-73b4-4e44-8563-e576e21d7e26)
