@@ -1,8 +1,8 @@
-[![linkedin](https://img.shields.io/badge/LinkedIn-Cecília%20Silva-B67066.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ceciliasilvads/)
-[![kagglr](https://img.shields.io/badge/Kaggle-Cecília%20Silva-B67066.svg?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/cecliasdesouza)
-[![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-B67066.svg?style=for-the-badge)](https://github.com/ceciliasilvads)
+[![linkedin](https://img.shields.io/badge/LinkedIn-Cecília%20Silva-FD9089.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ceciliasilvads/)
+[![kagglr](https://img.shields.io/badge/Kaggle-Cecília%20Silva-FD9089.svg?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/cecliasdesouza)
+[![Site](https://img.shields.io/badge/site-portifólio-FD9089.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://cecilia-silva.vercel.app)
 
-![capa-ceciliasilvads](https://github.com/ceciliasilvads/portifolio/blob/main/Capa.png)
+![capa-ceciliasilvads](https://github.com/ceciliasilvads/portifolio/blob/main/capa%20(2).png)
 
 ## Sobre Mim
   Tenho 19 anos e sou apaixonada por tecnologia! Poder contribuir com suas transformações é muito empolgante. Me encontrei na área de Ciência de Dados, desde então, tenho me dedicado aos estudos e me aprimorando todos os dias.
