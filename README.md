@@ -9,13 +9,12 @@
 
 ## Principais Ferramentas
 
-**Ciência de Dados**
+**Dados**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![SQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
 ![Data Studio](https://img.shields.io/badge/-Data%20Studio-black?style=flat-square&logo=google)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 ![Sheets](https://img.shields.io/badge/-Sheets-black?logoColor=green&style=flat-square&logo=MicrosoftExcel)
 
@@ -54,7 +53,10 @@
 
 ## Experiências
 
- - **Aprendiz de Ciência de Dados - [Ai Consult](https://www.linkedin.com/company/ai-consult/)**
+
+- **Analista de Dados - [Indico](https://www.linkedin.com/company/indicobr/)**
+ 		
+- **Aprendiz de Ciência de Dados - [Ai Consult](https://www.linkedin.com/company/ai-consult/)**
  		 
      AI Consult é uma consultoria que cria e implementa soluções de Ciência de Dados, Business Intelligence e Inteligência Artificial em diversos tipos de negócios. Participo da construção dos diversos produtos da empresa para os clientes.
 
