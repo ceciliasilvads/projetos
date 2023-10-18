@@ -1,22 +1,18 @@
 # Segmentação e Retenção de Clientes de um E-commerce
-## Introdução
+
+![capa](./images/capa.png)
+
+## Descrição do Problema:
 
 A UK Merch, uma empresa de varejo de vestuário no atacado, enfrenta desafios significativos em entender e otimizar seu desempenho de negócios. A falta de dados e estratégias claras impacta diretamente suas operações e decisões. Os principais problemas identificados são:
 
-### Falta de Visibilidade nas Vendas:
+**Falta de Visibilidade nas Vendas:** A empresa não possui uma compreensão clara de suas métricas de vendas mensais, padrões sazonais, e os países que contribuem significativamente para o volume de vendas.
 
-A empresa não possui uma compreensão clara de suas métricas de vendas mensais, padrões sazonais, e os países que contribuem significativamente para o volume de vendas.
+**Ausência de Estratégias Segmentadas:** A UK Merch adota uma abordagem única para todos os clientes, sem segmentação efetiva. Isso resulta em gastos ineficientes de recursos e esforços de marketing.
 
-### Ausência de Estratégias Segmentadas:
+**Dificuldade em Medir a Retenção de Clientes:** A falta de métricas claras para medir a retenção de clientes dificulta a avaliação do impacto da expansão para outros países.
 
-A UK Merch adota uma abordagem única para todos os clientes, sem segmentação efetiva. Isso resulta em gastos ineficientes de recursos e esforços de marketing.
-Dificuldade em Medir a Retenção de Clientes:
-
-A falta de métricas claras para medir a retenção de clientes dificulta a avaliação do impacto da expansão para outros países.
-
-### Uso Ineficiente de Recursos:
-
-Suspeita-se que a empresa esteja gastando recursos de maneira inadequada, sem foco estratégico. Isso pode ser otimizado para maximizar os lucros.
+**Uso Ineficiente de Recursos:** Suspeita-se que a empresa esteja gastando recursos de maneira inadequada, sem foco estratégico. Isso pode ser otimizado para maximizar os lucros.
 
 ## Objetivos
 
@@ -38,6 +34,9 @@ Utilizar a abordagem RFM para segmentar clientes com base em Recência, Frequên
 
 ## Limpeza e preparação dos dados
 
+![image1](./images/image1.png)
+
+
 ## Análise exploratoria
 
 ### Análise das Vendas
@@ -46,4 +45,9 @@ Utilizar a abordagem RFM para segmentar clientes com base em Recência, Frequên
 
 ### Segmentação de Clientes com Metodologia RFM
 
-## Resultadoss
+## 💡 Resultados
+
+
+## 📊 Visualização
+
+Os resultados podem ser visualizados no seguinte relatório: [Análise das mortes por Covid-19 em países da América Latina](https://lookerstudio.google.com/reporting/0a84786a-7bc8-4e28-99ed-a0032aabafa1)
