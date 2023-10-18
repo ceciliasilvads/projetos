@@ -115,19 +115,19 @@ Similar ao cálculo acumulado de mortes, criaremos uma coluna para o excesso de 
 
 Com as análises feitas anteriomente foi possível gerar:
 
-    Uma tabela comparativa com o total de mortes por COVID-19 notificadas por 100 mil habitantes, o total de mortes em excesso por 100 mil habitantes e a diferença entre os dois valores, por país:
+Uma tabela comparativa com o total de mortes por COVID-19 notificadas por 100 mil habitantes, o total de mortes em excesso por 100 mil habitantes e a diferença entre os dois valores, por país:
 
 ![image5](./images/image5.png)
 
-    E um gráfico de barras que apresenta a comparação entre total de mortes por COVID-19 notificadas por 100 mil habitantes e o total de mortes em excesso por 100 mil habitantes:
+E um gráfico de barras que apresenta a comparação entre total de mortes por COVID-19 notificadas por 100 mil habitantes e o total de mortes em excesso por 100 mil habitantes:
 
 ![image6](./images/image6.png)
 
-    Visualização em gráfico para cada páis do Mortes reportadas por Covid-19 X Excesso de Mortes ao longo das semanas dos anos de 2020 e 2021:
+Visualização em gráfico para cada páis do Mortes reportadas por Covid-19 X Excesso de Mortes ao longo das semanas dos anos de 2020 e 2021:
 
 ![image7](./images/image7.png)
 
-    Visualização em gráfico para cada páis do Mortes reportadas por Covid-19 X Excesso de Mortes, com valores acumulados ao longo das semanas dos anos de 2020 e 2021:
+Visualização em gráfico para cada páis do Mortes reportadas por Covid-19 X Excesso de Mortes, com valores acumulados ao longo das semanas dos anos de 2020 e 2021:
 
 ![iamage8](./images/image8.png)
 
@@ -149,9 +149,6 @@ Com as informações extraídas da base de dados podemos cocluir o seguinte:
 
 Esses resultados proporcionam insights valiosos sobre a disparidade nos números de óbitos oficiais e estimados, apontando para áreas que exigem atenção e investigação mais detalhada. Este resumo contribui para a compreensão global do impacto da pandemia na região, destacando não apenas os números oficiais, mas também considerando a realidade dos óbitos excedentes.
 
-
-### Os resultados podem ser visualizados no seguinte relatório: [Análise das mortes por Covid-19 em países da América Latina](https://docs.google.com/spreadsheets/d/1yBOSTk6jpdjkvEndQRCAgj81SnJ_q-6PYMokf9dpUAk/edit?usp=sharing)
-
 ## Conclusões e Recomendações
 
 A variação nos números de óbitos excedentes destaca a importância de considerar não apenas as estatísticas oficiais de COVID-19, mas também outras métricas para obter uma compreensão mais abrangente do impacto real da pandemia.
@@ -160,3 +157,6 @@ A variação nos números de óbitos excedentes destaca a importância de consid
 Monitoramento Contínuo:
 
 - Recomenda-se um monitoramento contínuo e análises adicionais para compreender melhor as dinâmicas em jogo e informar políticas de saúde pública.
+
+## 
+### Os resultados podem ser visualizados no seguinte relatório: [Análise das mortes por Covid-19 em países da América Latina](https://docs.google.com/spreadsheets/d/1yBOSTk6jpdjkvEndQRCAgj81SnJ_q-6PYMokf9dpUAk/edit?usp=sharing)
