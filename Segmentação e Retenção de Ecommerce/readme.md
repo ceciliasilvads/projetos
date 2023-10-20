@@ -61,11 +61,11 @@ Como só queremos analisar as vendas do negócio (e não as devoluções), devem
 
 - Criamos uma tabela que listou o número de faturas emitidas para cada país.
 
-    ![Alt text](image-1.png)
+    ![Alt text](./images/image-1.png)
 
 - Calculamos a porcentagem de faturas representada por cada país.
 
-    ![Alt text](image-2.png)
+    ![Alt text](./images/image-2.png)
 
 Com isso identificamos os principais países em termos de número de faturas emitidas.
 
@@ -74,15 +74,15 @@ Com isso identificamos os principais países em termos de número de faturas emi
 
 - Criamos uma tabela que apresentou o valor total de vendas por país.
 
-    ![Alt text](image-3.png)
+    ![Alt text](./images/image-3.png)
 
 - Calculamos a porcentagem que cada país representou do valor total.
 
-    ![Alt text](image-4.png)
+    ![Alt text](./images/image-4.png)
 
 - Calculamos o valor médio, mínimo e máximo gasto em cada país.
 
-    ![Alt text](image-5.png)
+    ![Alt text](./images/image-5.png)
 
 Com isso identificamos países com médias de gastos distintas.
 
@@ -90,14 +90,14 @@ Com isso identificamos países com médias de gastos distintas.
 
 - Criamos uma nova coluna "ANO - MÊS" a partir da coluna "Data da fatura".
 
-    ![Alt text](image-6.png)
+    ![Alt text](./images/image-6.png)
 - Geramos uma tabela dinâmica que mostrou o número de faturas emitidas por mês.
 
-    ![Alt text](image-7.png)
+    ![Alt text](./images/image-7.png)
 
 - Em seguida criamos um gráfico para visualizar a tendência de faturas ao longo do tempo.
 
-    ![Alt text](image-23.png)
+    ![Alt text](./images/image-23.png)
 
 **Número de Faturas do Reino Unido versus Estrangeiras por Mês:**
 
@@ -106,28 +106,28 @@ Com isso identificamos países com médias de gastos distintas.
     =SE(PAÍS="Reino Unido";"SIM";"NÃO")
     ```
 
-    ![Alt text](image-9.png)
+    ![Alt text](./images/image-9.png)
     
 - Geramos uma tabela dinâmica que contou o número de faturas para clientes do Reino Unido e clientes estrangeiros.
 
-    ![Alt text](image-10.png)
+    ![Alt text](./images/image-10.png)
 
 Então criamos um gráfico de série cronológica para comparar as vendas entre esses dois grupos.
-    ![Alt text](image-24.png)
+    ![Alt text](./images/image-24.png)
 
 **Número de Novos Clientes por Mês:**
 
 - Criamos uma tabela dinâmica que utilizou meses-anos como linhas e calculou o número de clientes únicos.
 
-    ![Alt text](image-11.png)
+    ![Alt text](./images/image-11.png)
 
 - Utilizamos a coluna de ID de Cliente para contar clientes exclusivos.
 
-    ![Alt text](image-22.png)
+    ![Alt text](./images/image-22.png)
 
 - Com isso criamos um gráfico para analisar se o aumento nas faturas estava relacionado ao aumento de novos clientes.
 
-    ![Alt text](image-25.png)
+    ![Alt text](./images/image-25.png)
 
 ### Medição do Engajamento do Cliente com Análise de Coorte
 
@@ -176,27 +176,33 @@ Análise:
 Essas etapas nos permitiram segmentar os clientes do UK Merch com base em Recência, Frequência e Valor Monetário, criando categorias que ajudam a direcionar esforços de marketing e maximizar a receita. A segmentação fornece insights valiosos para tomar decisões estratégicas eficazes.
 
 ## Visualização
-Página com Informações de Vendas e Indicadores importantes para a empresa sobre faturamento e total de vendas:
 
-![Alt text](image-12.png)
-![Alt text](image-13.png)
+A baixo os visuais recomendados para que os gestores e colaboradores da empresa possam acompanhar as métricas discutidas nesse preojeto:
 
-Página com apresentação de indicadores de retenção da UK Merch:
 
-![Alt text](image-14.png)
-![Alt text](image-15.png)
+### Página com Informações de Vendas e Indicadores importantes para a empresa sobre faturamento e total de vendas:
 
-Página com apresentação de indicadores e segmentação dos clientes da UK Merch baseada na metodologia RFM:
+![Alt text](./images/image-12.png)
+![Alt text](./images/image-13.png)
 
-![Alt text](image-16.png)
-![Alt text](image-17.png)
+### Página com apresentação de indicadores de retenção da UK Merch:
+
+![Alt text](./images/image-14.png)
+![Alt text](./images/image-15.png)
+
+### Página com apresentação de indicadores e segmentação dos clientes da UK Merch baseada na metodologia RFM:
+
+![Alt text](./images/image-16.png)
+![Alt text](./images/image-17.png)
 
 ## 💡 Resultados
 
-A análise das vendas proporcionou insights valiosos sobre o desempenho da empresa, destacando os países com maior número de faturas e sua contribuição percentual para o total de faturas. Além disso, a análise de valor total por país revelou não apenas a distribuição do valor, mas também estatísticas detalhadas, como média, mínimo e máximo. A análise mensal das faturas e a comparação entre faturas do Reino Unido e de clientes estrangeiros ao longo do tempo permitiram entender as tendências de vendas sazonais e o impacto das vendas internacionais.
-
-A segmentação de clientes com base em Recência, Frequência e Valor Monetário (RFM) forneceu uma categorização valiosa dos clientes em grupos distintos. Isso possibilitou a identificação de oportunidades específicas, como a retenção de clientes dormentes, direcionamento de campanhas para clientes leais e aquisição de novos clientes. A consideração da localização dos clientes permitiu personalizar estratégias publicitárias e entender o desempenho no mercado internacional.
-
-Em resumo, os resultados são fundamentais para orientar as decisões estratégicas do UK Merch. Eles fornecem um quadro claro do comportamento do cliente, ajudando a maximizar a receita, melhorar a retenção e otimizar os esforços de marketing. Essa abordagem baseada em dados oferece flexibilidade para ajustar as estratégias de acordo com as necessidades do negócio, permitindo uma resposta eficaz às mudanças no mercado e no comportamento do cliente.
+A partir dessas análises podemos identificar:
+- O ticket médio da UK Merch é de £480,18;
+- A empresa teve operções em 37 páises;
+- O mês de melhor performance da emprese é Novembro, tanto em número de vendas faturadas, quanto em valor da vendas;
+- O segundo mês de relacionamento com os clientes do Reino Unido é o que tem menor taxa de retenção;
+- Para os clientes fora do Reino Unido o mês 9 de relacionamento é o que apresenta a menor taxa de retenção;
+- A UK Merch tem um número significativos de clientes leais e com lealdade potencial, poderiam ser implementadas ofrtas para que os tornem clientes campeões.
 
 Os resultados podem ser visualizados no seguinte relatório [UK Merch - Vendas, Segmentação e Retenção de Clientes](https://lookerstudio.google.com/reporting/0a84786a-7bc8-4e28-99ed-a0032aabafa1)
